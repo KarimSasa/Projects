@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Karim's Gym and Tips</title>
+    <link rel="icon" type="image/png" href="Images/Logo.png">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css">
+    <link rel="stylesheet" href="styles.css">
+    <script src="index.js" defer></script>
+    <script src="quote.js" defer></script>
+</head>
+<body>
+        <header>
+        <div class="top-bar">
+            <div id="logo">
+                <img src="Images/Logo.png" alt="Karim's Gym Logo">
+            </div>
+            <span id="quote">Loading inspirational quote...</span>
+            <nav>
+                <ul>
+                    <li><a href="index.html" class="active">Home</a></li>
+                    <li><a href="workouts.html">Workouts</a></li>
+                    <li><a href="nutrition.html">Nutrition</a></li>
+                    <li><a href="membership.html">Membership</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+    <main>
+        <div class ="carousel-container">
+            <button class = "carousel-btn left"><i class = "fa-solid fa-chevron-left"></i></button>
+            <ul class ="carousel">
+                <li class = "carousel-item active"><img src  = "Images/HappyGym.jpg" alt = "GymPic1"></li>
+                <li class = "carousel-item"><img src  = "Images/GYMPIC2.png" alt = "GymPic2"></li>
+                <li class = "carousel-item"><img src  = "Images/GYMPIC3.png" alt = "GymPic3"></li>
+            </ul>
+            <button class = "carousel-btn right"><i class = "fa-solid fa-chevron-right"></i></button>
+            <div class = "carousel-nav">
+                <div class = "nav-item active"></div>
+                <div class = "nav-item"></div>
+                <div class = "nav-item"></div>
+            </div>
+        </div>
+        <section id="welcome-text">
+            <p>Karim’s Gym and Tips has always been more than just a fitness center—it's a cornerstone in the journey towards health and well-being. Our story began over a decade ago, with a single mission in mind: to inspire and empower individuals to live their best lives through fitness goals and nutrition.</p>
+            <br>
+            <p>From the start, we recognized the true power of a supportive community and created fitness plans. That’s why we’ve built this website: to extend our reach and share our passion for fitness beyond the walls of our gym. Here, you'll find everything from personalized workout programs and nutritional guidance to motivational support.</p>
+            <br>
+            <p>We pride ourselves on the variety of services we offer. Whether you’re looking to build strength, increase flexibility, or enhance your cardiovascular health, we have a program for you. Our certified trainers are professionals at crafting workouts that cater to all fitness levels and goals. Plus, our nutritionists work closely with members to devise meal plans that complement their fitness routines.</p>
+            <br>
+            <p>Our commitment doesn’t end with physical training and diet. We believe in nurturing an all-inclusive sense of well-being. As a member of Karim's Gym, you’ll gain access to a range of wellness workshops, community events, and one-on-one coaching sessions that focus on mental and emotional health.</p>
+            <br>
+            <p>Join us at Karim’s Gym and Tips, and be a part of a story that celebrates health, resilience, and community. We’re more than a gym—we're a family that grows stronger together. Explore our website to learn more about our services and find out how you can start your transformative journey today.</p>
+        </section>
+        <section id="sign-up">
+            <p class="interested-text">Interested? Sign up!</p>
+            <button class="sign-up-btn" onclick="location.href='membership.html'">Sign Up</button>
+        </section>
+        <section class="centered-text">
+            <p class="interested-text">Find us here:</p>
+        </section>        
+        <section id="map">
+            <a href="https://maps.app.goo.gl/44UsSxeCp1fjfPFq5" target="_blank">
+                <img src="Images/GymLocation.avif" alt="Gym location">
+            </a>
+        </section>
+    </main>
+    <footer>
+        <p>&copy;2024 Karim's Gym and Tips. All rights reserved.</p>
+    </footer>
+</body>
+</html>
+

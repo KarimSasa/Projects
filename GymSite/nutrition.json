@@ -1,0 +1,166 @@
+{
+    "plans": [
+      {
+        "name": "Muscle Gain",
+        "carbohydrates": ["Oats", "Rice", "Pasta"],
+        "proteins": ["Eggs", "Chicken", "Turkey"],
+        "fats": ["Tuna", "Avocados", "Nuts"],
+        "pieChartUrl": "Images/PieChart1.jpg",
+        "mealPlan": [
+          {
+            "day": "1",
+            "breakfast": "Scrambled eggs with mushrooms, oatmeal, and a pear",
+            "lunch": "Venison burger, white rice, and broccoli",
+            "dinner": "Salmon, quinoa, and asparagus"
+          },
+          {
+            "day": "2",
+            "breakfast": "Protein pancakes with syrup, peanut butter, and raspberries",
+            "lunch": "Sirloin steak, sweet potatoes, and spinach salad",
+            "dinner": "Ground turkey and marinara sauce over pasta, with a side of cauliflower"
+          },
+          {
+            "day": "2",
+            "breakfast": "Scrambled eggs with mushrooms, oatmeal, and a pear",
+            "lunch": "Venison burger, white rice, and broccoli",
+            "dinner": "Salmon, quinoa, and asparagus"
+          },
+          {
+          "day": "3",
+          "breakfast": "Chicken sausage with egg, roasted potatoes, and an apple",
+          "lunch": "Turkey breast, basmati rice, and mushrooms",
+          "dinner": "Mackerel, brown rice, asparagus, and sald leaves with vinaigrette"
+          },
+          {
+            "day": "4",
+            "breakfast": "Ground turkey, egg, cheese, and salsa in a whole-grain tortilla",
+            "lunch": "Chicken breast, baked potato, sour cream, and broccoli",
+            "dinner": "Stir-fry with shrimp, egg, brown rice, belll peppers, peas, and carrots"
+          },
+          {
+            "day": "5",
+            "breakfast": "Blueberries, strawberries, and Greek yogurt on oats",
+            "lunch": "Tilapia fillets with lime juice, black and pinto beans, and seasonal veggies",
+            "dinner": "Ground beef with corn, brown rice, green peas, and beans"
+          },
+          {
+            "day": "6",
+            "breakfast": "Ground turkey and egg with corn, bell peppers, cheese, and salsa",
+            "lunch": "Tilapia fillet and potato wedges with steamed broccoli and cauliflower",
+            "dinner": "Diced beef with rice, black beans, bell peppers, onions, cheese, and pico de gallo"
+          },
+          {
+          "day": "7",
+          "breakfast": "Eggs sunny-side up and avocado toast with fresh fruit",
+          "lunch": "Pork tenderloin slices with roasted garlic potatoes, green beans, and carrots",
+          "dinner": "Turkey meatballs, marinara sauce, and paramesan cheese over pasta"
+          }
+
+        ]
+      },
+      {
+        "name": "Weight Loss",
+        "carbohydrates": ["Quinoa", "Sweet potatoes", "Berries"],
+        "proteins": ["Lean beef", "Salmon", "Egg whites"],
+        "fats": ["Coconut oil", "Almonds", "Chia seeds"],
+        "pieChartUrl": "Images/PieChart2.PNG",
+        "mealPlan": [
+          {
+            "day": "1",
+            "breakfast": "Greek yogurt with mixed berries and a sprinkle of almonds",
+            "lunch": "Grilled chicken salad with mixed greens, cherry tomatoes, and balsamic vinaigrette",
+            "dinner": "Baked cod with steamed broccoli and quinoa"
+          },
+          {
+            "day": "2",
+            "breakfast": "Oatmeal with sliced banana and a dash of cinnamon",
+            "lunch": "Turkey and avocado wrap with whole-grain tortilla and side of carrot sticks",
+            "dinner": "Stir-fried tofu with mixed vegetables over brown rice"
+          },
+          {
+            "day": "3",
+            "breakfast": "Smoothie with spinach, protein powder, frozen berries, and chia seeds",
+            "lunch": "Lentil soup with a side of whole-grain bread and cucumber salad",
+            "dinner": "Grilled shrimp over mixed greens with lemon and olive oil dressing"
+          },
+          {
+            "day": "4",
+            "breakfast": "Egg white omelet with mushrooms, spinach, and feta cheese",
+            "lunch": "Quinoa and black bean stuffed bell peppers",
+            "dinner": "Grilled lean steak with asparagus and side salad"
+          },
+          {
+            "day": "5",
+            "breakfast": "Chia seed pudding made with almond milk and topped with fresh berries",
+            "lunch": "Chickpea and avocado salad with lemon dressing",
+            "dinner": "Baked salmon with a side of roasted Brussels sprouts and sweet potato"
+          },
+          {
+            "day": "6",
+            "breakfast": "Whole-grain toast with almond butter and sliced strawberries",
+            "lunch": "Tuna salad over mixed greens with cherry tomatoes and olives",
+            "dinner": "Chicken stir-fry with a variety of vegetables over cauliflower rice"
+          },
+          {
+            "day": "7",
+            "breakfast": "Cottage cheese with pineapple chunks and sliced almonds",
+            "lunch": "Vegetable and hummus wrap in a spinach tortilla with side of mixed fruit",
+            "dinner": "Zucchini noodles with turkey meatballs and marinara sauce"
+          }          
+        ]
+      },
+
+      {
+        "name": "Maintenance",
+        "carbohydrates": ["Brown rice", "Fruits", "Whole grains"],
+        "proteins": ["Cottage cheese", "Greek yogurt", "Legumes"],
+        "fats": ["Olive oil", "Peanuts", "Sunflower seeds"],
+        "pieChartUrl": "Images/PieChart3.PNG",
+        "mealPlan": [
+          {
+            "day": "1",
+            "breakfast": "Omelet with avocado, tomatoes, and onions, served with whole wheat toast",
+            "lunch": "Baked lemon pepper chicken breast with mixed green salad and vinaigrette",
+            "dinner": "Grilled salmon with wild rice and steamed green beans"
+          },
+          {
+            "day": "2",
+            "breakfast": "Banana nut oatmeal with skim milk and a drizzle of honey",
+            "lunch": "Turkey and cheese sandwich on whole-grain bread with lettuce and mustard, side of kale chips",
+            "dinner": "Stuffed bell peppers with ground turkey, black beans, corn, and topped with a sprinkle of cheese"
+          },
+          {
+            "day": "3",
+            "breakfast": "Smoothie bowl with spinach, banana, mixed berries, granola, and coconut flakes",
+            "lunch": "Quinoa salad with chickpeas, cucumber, feta, and sun-dried tomatoes",
+            "dinner": "Pork tenderloin with apple sauce, roasted sweet potatoes, and Brussels sprouts"
+          },
+          {
+            "day": "4",
+            "breakfast": "Whole-grain waffles topped with almond butter and fresh blueberries",
+            "lunch": "Lentil pasta tossed with olive oil, garlic, cherry tomatoes, and grilled chicken",
+            "dinner": "Beef stir-fry with brown rice and a medley of bell peppers, broccoli, and snap peas"
+          },
+          {
+            "day": "5",
+            "breakfast": "Yogurt parfait with layers of Greek yogurt, granola, and mixed fruit",
+            "lunch": "Spinach and goat cheese salad with walnuts, cranberries, and balsamic glaze",
+            "dinner": "Seared tuna steak with quinoa pilaf and a side of roasted asparagus"
+          },
+          {
+            "day": "6",
+            "breakfast": "Scrambled eggs with salsa, black beans, and whole-grain tortilla",
+            "lunch": "Roast beef wrap with horseradish mayo, arugula, and tomato, side of fruit salad",
+            "dinner": "Herb-roasted chicken thighs with garlic mashed potatoes and steamed carrots"
+          },
+          {
+            "day": "7",
+            "breakfast": "Cinnamon raisin oatmeal with a side of cottage cheese and pineapple",
+            "lunch": "Chicken Caesar salad with croutons and Caesar dressing, side of whole-grain roll",
+            "dinner": "Baked cod with a lemon herb crust, couscous, and sautéed spinach"
+          }
+        ]
+      }
+    ]
+  }
+  
